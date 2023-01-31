@@ -29,5 +29,6 @@ ActualText = Windows.getText(findWindowsObject('Object Repository/Calculator/Res
 ExpectedText = '14'
 
 Windows.verifyEqual(ActualText, ExpectedText)
+println('Complete Testing')
 
 Windows.closeApplication()
