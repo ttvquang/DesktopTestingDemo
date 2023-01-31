@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Plus button</name>
+   <tag></tag>
+   <locator>//Button[@Name='Plus'][@AutomationId='plusButton']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>
